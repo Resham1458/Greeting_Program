@@ -8,6 +8,8 @@ def loop(c):
         ask()
     else:
         print("Goodbye! Have fun!")
+        else:
+            print("Goodbye! Have fun!")
 
 def ask():
     name = input("What is your name?")
